@@ -1,6 +1,6 @@
-## telemetria-presentation
+# telemetria-presentation
 
-# Presentation of the 2019 Telemetry Project
+## Presentation of the 2019 Telemetry Project
 
 1. Serve the presentation and monitor source files for changes
    ```sh
